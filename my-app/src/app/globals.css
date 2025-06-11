@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+#container2{height: 416px ;
+    width:250px;
+    transition: height .3s ;
+    transition-delay: .5s;
+    }
+
+#container2:hover{height: 620px ;
+  
+    z-index: 2;
+
+top:0px}
+
+#container1{ 
+margin-bottom: 10px;
+max-height: 440px}

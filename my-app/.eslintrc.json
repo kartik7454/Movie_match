@@ -1,0 +1,6 @@
+{
+  "extends": ["next",
+    "next/core-web-vitals",
+    "../../.eslintrc.json",
+    "next/babel"]
+}
